@@ -1,0 +1,31 @@
+body{background-image:  url('chiran.jpg');
+background-size:cover;
+background-position:center;
+height:100vh;
+}
+
+    
+    h1{
+    border: 8px solid black;
+    
+    padding: 10px;
+    margin: 20;
+    color: white;
+    border-color: white;
+    text-align: center;
+font-family: "comic sans ms";
+}
+p{
+    color:white;
+    padding: 20px;
+    width:40%;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(10, 10, 10)
+}
+nav a:hover{
+    background-color:rgb(210, 109, 109);
+    color:white;
+}
+h2{width:80%}
